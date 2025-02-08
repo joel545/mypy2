@@ -1,0 +1,1 @@
+this mypy2_txt 文字檔
